@@ -1,0 +1,2 @@
+# StrapiBasicApi
+Strapi API
