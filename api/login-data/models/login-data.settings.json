@@ -1,0 +1,29 @@
+{
+  "kind": "collectionType",
+  "collectionName": "login_data",
+  "info": {
+    "name": "LoginData"
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "username": {
+      "type": "string"
+    },
+    "password": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    },
+    "sarname": {
+      "type": "string"
+    },
+    "UID": {
+      "type": "string"
+    }
+  }
+}
